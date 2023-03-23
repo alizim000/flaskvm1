@@ -1,6 +1,12 @@
-# Getting started
+# Table of Contents
 
-Section 1 
-
-Istalling Flask
-
+Introduction
+Installing
+Updating Database
+Updating Chatbot
+Usage
+CI-Pipeline
+Development / Contributing
+Scrum Board
+License
+Contributors
