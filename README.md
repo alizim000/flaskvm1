@@ -1,6 +1,6 @@
-# flaskvm1
+# Getting started
 
-Getting started
+Section 1 
 
-Section 1 Istalling Flask
+Istalling Flask
 
