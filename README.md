@@ -9,5 +9,4 @@ CI-Pipeline
 Development / Contributing
 Scrum Board
 License
-Contributors
---
+Contributor
